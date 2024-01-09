@@ -4,7 +4,7 @@
 <h3 align="center">A full Stack Developer with full armour in my hands to destroy your competitors and crush your market</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...](https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" />
 
-
+<img src="https://media.licdn.com/dms/image/D4D16AQFOBMWssDdEhQ/profile-displaybackgroundimage-shrink_350_1400/0/1704229176533?e=1710374400&v=beta&t=C6DbHocQdnkzj_cCJvyj6B8RUC4D_pee9IxlnEB53-M" alt="javascript" width="100%" /> 
 
 
 
