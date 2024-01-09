@@ -7,7 +7,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayyaninam" alt="ayyaninam" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/ayyaninammahar" target="blank"><img src="https://img.shields.io/twitter/follow/ayyaninammahar?logo=twitter&style=for-the-badge" alt="ayyaninammahar" /></a> </p>
 
