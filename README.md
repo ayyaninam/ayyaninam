@@ -3,7 +3,7 @@
 <h3 align="center">A full Stack Developer with full armour in my hands to destroy your competitors and crush your market</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...](https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" />
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg](https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQ4MzQ5MDEsIm5iZiI6MTcwNDgzNDYwMSwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTA5VDIxMTAwMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI5ODgyNDZjZjA1YjRmY2FjMDQwYmQ3MjgzMzU2OWE5MTdkZDU4MDkyODJkN2MwZDEwZGFlZDdmYWY2MDJhNGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.P7HnP-bLkmEQSbUnvLv43QpO66Ad8bPptY6aF-uk3T8)" alt="javascript" width="40" height="40"/> 
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayyaninam" alt="ayyaninam" /></a> </p>
