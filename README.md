@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Ayyan Inam</h1>
 <h3 align="center">A full Stack Developer with full armour in my hands to destroy your competitors and crush your market</h3>
 
-<img src="https://media.licdn.com/dms/image/D4D16AQFOBMWssDdEhQ/profile-displaybackgroundimage-shrink_350_1400/0/1704229176533?e=1710374400&v=beta&t=C6DbHocQdnkzj_cCJvyj6B8RUC4D_pee9IxlnEB53-M" alt="javascript" width="100%" /> 
-
 
 
 
